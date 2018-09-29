@@ -233,7 +233,8 @@
 
 					}
 ,
-					"text" : "start"
+					"text" : "start",
+					"varname" : "live.text[4]"
 				}
 
 			}
@@ -257,7 +258,6 @@
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
 					"patching_rect" : [ 150.0, 1417.5, 174.0, 22.0 ],
-					"presentation_linecount" : 2,
 					"text" : "/wekinator/control/startRunning"
 				}
 
@@ -737,7 +737,7 @@
 				"box" : 				{
 					"id" : "obj-37",
 					"maxclass" : "number",
-					"maximum" : 20,
+					"maximum" : 1000,
 					"minimum" : 1,
 					"numinlets" : 1,
 					"numoutlets" : 2,

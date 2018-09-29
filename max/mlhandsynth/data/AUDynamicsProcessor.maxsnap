@@ -1,0 +1,21 @@
+{
+	"filetype" : "C74Snapshot",
+	"version" : 2,
+	"minorversion" : 0,
+	"name" : "AUDynamicsProcessor",
+	"origin" : "AUDynamicsProcessor.auinfo",
+	"type" : "AudioUnit",
+	"subtype" : "AudioEffect",
+	"embed" : 0,
+	"snapshot" : 	{
+		"pluginname" : "AUDynamicsProcessor.auinfo",
+		"plugindisplayname" : "AUDynamicsProcessor",
+		"pluginsavedname" : "AUDynamicsProcessor",
+		"pluginsaveduniqueid" : 0,
+		"version" : 1,
+		"isbank" : 0,
+		"isbase64" : 1,
+		"blob" : "258.hAGaoMGcv.y0AHv.DTfAGfPBJr.CM3.WsEla0YVXiQWcxUlbTQVXzE1VTglbkMGZuwFYOszUyUmXzkGbkckckI2bo8laTQWdvUFUtEVakIQXvAGaOAAW..............fB.....HLcgSF...P.BEQ+qB...HvO.B......CHLx.......A7TuvOB...T.O0K7i....F........L.5........G.svvC....vB3JL7...DAHAYi0FbP.fDgUmY38EDOXTXyQGHg4FYfLUau8FcngvEjjRM8TjROQ0r0pKuAC.......DP..........7....................vz"
+	}
+
+}
