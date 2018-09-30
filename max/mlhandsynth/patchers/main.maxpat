@@ -10,7 +10,7 @@
 		}
 ,
 		"classnamespace" : "box",
-		"rect" : [ 197.0, 1754.0, 1841.0, 1973.0 ],
+		"rect" : [ 197.0, 423.0, 1686.0, 3277.0 ],
 		"bglocked" : 0,
 		"openinpresentation" : 0,
 		"default_fontsize" : 12.0,
@@ -3375,16 +3375,6 @@
 						"bp.Reverb 2::Mix" : 0,
 						"bp.Reverb 2::Size" : 0,
 						"bp.Reverb 2::bypass" : 0,
-						"bp.Compressor" : 0,
-						"bp.Compressor::Attack" : 0,
-						"bp.Compressor::Bypass" : 0,
-						"bp.Compressor::Input" : 0,
-						"bp.Compressor::Output" : 0,
-						"bp.Compressor::Ratio" : 0,
-						"bp.Compressor::Release" : 0,
-						"bp.Compressor::Threshold" : 0,
-						"bp.Compressor::slider[2]" : 0,
-						"bp.Compressor::slider[3]" : 0,
 						"voice2" : 0,
 						"voice2::bp.VCA" : 0,
 						"voice2::bp.VCA::Bypass" : 0,
@@ -3518,7 +3508,7 @@
 						"client_rect" : [ 4, 44, 358, 172 ],
 						"parameter_enable" : 0,
 						"parameter_mappable" : 0,
-						"storage_rect" : [ 1447, 1326, 2160, 3311 ]
+						"storage_rect" : [ 583, 69, 1034, 197 ]
 					}
 ,
 					"style" : "default",
@@ -3538,9 +3528,9 @@
 					"restore" : 					{
 						"live.gain~" : [ 12.0 ],
 						"pitch_1" : [ 0.5 ],
-						"pitch_2" : [ 1.0 ],
-						"pitch_3" : [ 1.5 ],
-						"pitch_4" : [ 1.24015748031496 ],
+						"pitch_2" : [ 2.0 ],
+						"pitch_3" : [ 3.0 ],
+						"pitch_4" : [ 1.5 ],
 						"vst~" : [ 							{
 								"filetype" : "C74Snapshot",
 								"version" : 2,
@@ -3567,7 +3557,7 @@
 ,
 					"style" : "default",
 					"text" : "autopattr @autoname 1",
-					"varname" : "u650013249"
+					"varname" : "u871009751"
 				}
 
 			}
@@ -5239,8 +5229,8 @@
 			"obj-69::obj-16" : [ "live.text[42]", "live.text[1]", 0 ],
 			"obj-174::obj-6::obj-23" : [ "bypass[6]", "bypass", 0 ],
 			"obj-28::obj-15" : [ "edit[2]", "edit", 0 ],
-			"obj-116::obj-8::obj-28" : [ "Res[2]", "Res", 0 ],
 			"obj-116::obj-8::obj-4" : [ "Offset[2]", "Offset", 0 ],
+			"obj-116::obj-8::obj-28" : [ "Res[2]", "Res", 0 ],
 			"obj-104::obj-24" : [ "live.dial[19]", "live.dial", 0 ],
 			"obj-174::obj-74" : [ "Res[5]", "Res", 0 ],
 			"obj-167::obj-24" : [ "live.dial[30]", "live.dial", 0 ],
@@ -5282,8 +5272,8 @@
 			"obj-38::obj-42" : [ "live.text[31]", "live.text[1]", 0 ],
 			"obj-116::obj-8::obj-63" : [ "CV3[1]", "CV3", 0 ],
 			"obj-174::obj-27::obj-51" : [ "Freq[4]", "Freq", 0 ],
-			"obj-174::obj-48" : [ "Center[6]", "Center", 0 ],
 			"obj-174::obj-13" : [ "freq[2]", "freq", 0 ],
+			"obj-174::obj-48" : [ "Center[6]", "Center", 0 ],
 			"obj-117" : [ "rate[8]", "rate", 0 ],
 			"obj-66::obj-25" : [ "LPF", "LPF", 0 ],
 			"obj-174::obj-8::obj-22" : [ "TimeMode[2]", "TimeMode", 1 ],
@@ -5362,8 +5352,8 @@
 			"obj-228::obj-8::obj-63" : [ "CV3[3]", "CV3", 0 ],
 			"obj-16::obj-26::obj-37" : [ "power", "power", 0 ],
 			"obj-66::obj-28" : [ "Feedback", "Feedback", 0 ],
-			"obj-196::obj-15" : [ "edit[36]", "edit", 0 ],
 			"obj-196::obj-24" : [ "live.dial[35]", "live.dial", 0 ],
+			"obj-196::obj-15" : [ "edit[36]", "edit", 0 ],
 			"obj-89::obj-24" : [ "live.dial[16]", "live.dial", 0 ],
 			"obj-181::obj-24" : [ "live.dial[32]", "live.dial", 0 ],
 			"obj-28::obj-16" : [ "live.text[23]", "live.text[1]", 0 ],
@@ -5410,8 +5400,8 @@
 			"obj-228::obj-26::obj-37" : [ "power[6]", "power", 0 ],
 			"obj-228::obj-8::obj-4" : [ "Offset[6]", "Offset", 0 ],
 			"obj-174::obj-27::obj-20" : [ "mute[2]", "mute", 0 ],
-			"obj-174::obj-8::obj-20" : [ "Freq[5]", "Freq", 0 ],
 			"obj-174::obj-8::obj-54" : [ "CV1[2]", "CV1", 0 ],
+			"obj-174::obj-8::obj-20" : [ "Freq[5]", "Freq", 0 ],
 			"obj-174::obj-54" : [ "Rate[5]", "Rate", 0 ],
 			"obj-174::obj-55" : [ "Width[6]", "Width", 0 ],
 			"obj-152::obj-42" : [ "live.text[73]", "live.text[1]", 0 ],
@@ -5498,8 +5488,8 @@
 			"obj-206::obj-42" : [ "live.text[96]", "live.text[1]", 0 ],
 			"obj-1::obj-73" : [ "live.text[15]", "live.text", 0 ],
 			"obj-116::obj-9::obj-3" : [ "Signal[2]", "Signal", 0 ],
-			"obj-116::obj-43" : [ "live.text[61]", "live.text", 0 ],
 			"obj-116::obj-13" : [ "freq[1]", "freq", 0 ],
+			"obj-116::obj-43" : [ "live.text[61]", "live.text", 0 ],
 			"obj-84::obj-16" : [ "live.text[47]", "live.text[1]", 0 ],
 			"obj-174::obj-8::obj-63" : [ "CV3[2]", "CV3", 0 ],
 			"obj-228::obj-8::obj-20" : [ "Freq[7]", "Freq", 0 ],
@@ -5527,8 +5517,8 @@
 			"obj-174::obj-8::obj-95" : [ "ResCV[2]", "CV", 0 ],
 			"obj-157::obj-16" : [ "live.text[75]", "live.text[1]", 0 ],
 			"obj-225::obj-15" : [ "edit[42]", "edit", 0 ],
-			"obj-181::obj-15" : [ "edit[33]", "edit", 0 ],
 			"obj-181::obj-42" : [ "live.text[86]", "live.text[1]", 0 ],
+			"obj-181::obj-15" : [ "edit[33]", "edit", 0 ],
 			"obj-16::obj-8::obj-95" : [ "ResCV", "CV", 0 ],
 			"obj-24::obj-24" : [ "live.dial[1]", "live.dial", 0 ],
 			"obj-47::obj-24" : [ "live.dial[9]", "live.dial", 0 ],
@@ -5566,8 +5556,8 @@
 			"obj-116::obj-8::obj-54" : [ "CV1[1]", "CV1", 0 ],
 			"obj-74::obj-24" : [ "live.dial[13]", "live.dial", 0 ],
 			"obj-132::obj-15" : [ "edit[24]", "edit", 0 ],
-			"obj-228::obj-7" : [ "constant[3]", "constant", 0 ],
 			"obj-228::obj-38" : [ "rate[13]", "rate", 0 ],
+			"obj-228::obj-7" : [ "constant[3]", "constant", 0 ],
 			"parameterbanks" : 			{
 
 			}
